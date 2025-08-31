@@ -10,8 +10,7 @@ Cuido de BFFs e microserviços em Node.js e Java, integrações e dados. Busco s
 
 ### 🧰 Tech Stack
 
-- **Node.js**: JavaScript • TypeScript • NestJS • Prisma ORM • Mongoose
-- **Java**: Java 17+ • Spring Boot 
+- **Back-end**: NodeJs • NestJs • Java • Spring Boot
 - **Databases**: PostgreSQL • Redis • MongoDB  
 - **Mensageria**: RabbitMQ
 
